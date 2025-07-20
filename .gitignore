@@ -1,0 +1,6 @@
+# Node modules and build files
+node_modules/
+build/
+.env
+.DS_Store
+*.log
